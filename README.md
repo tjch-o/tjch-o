@@ -1,6 +1,6 @@
 Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying at NUS.
 
-**Programming Languages:**
+**Programming Languages**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
@@ -10,7 +10,7 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
 
 ---
 
-**Web Development:**
+**Web Development**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
@@ -23,7 +23,7 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
 
 ---
 
-**Data Science:**
+**Data Science**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
@@ -32,7 +32,7 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
 
 ---
 
-**Database Systems:**
+**Database Systems**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="50" />
