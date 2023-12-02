@@ -1,3 +1,0 @@
-# WakaHS
-
-{{CodeTimeBadge}}
