@@ -6,6 +6,7 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" />
 </div>
 
 ---
@@ -28,11 +29,12 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="50" />
 </div>
 
 ---
 
-**Database Systems**
+**Databases**
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="50" />
@@ -45,6 +47,7 @@ Hey, I'm Tze Jie. I am a current Year 2 Computer Science undergraduate studying 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" />
 </div>
 
 
